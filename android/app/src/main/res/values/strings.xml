@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ITEL LMS</string>
+    <string name="title_activity_main">ITEL LMS</string>
+    <string name="package_name">com.itel.moodle</string>
+    <string name="custom_url_scheme">com.itel.moodle</string>
+</resources>
