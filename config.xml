@@ -39,7 +39,11 @@
     <preference name="load-url-timeout" value="60000" />
     <preference name="AutoHideSplashScreen" value="false" />
     <preference name="android-minSdkVersion" value="24" />
+<<<<<<< HEAD
     <preference name="android-targetSdkVersion" value="36" />
+=======
+    <preference name="android-targetSdkVersion" value="30" />
+>>>>>>> 73210234a322342c4918bc1892695d753b0e2280
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
     <preference name="AndroidInsecureFileModeEnabled" value="true" />
     <preference name="CustomURLSchemePluginClearsAndroidIntent" value="true" />
