@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "com.itel.learn",
+    "appname": "ITEL Learn",
     "versioncode": 51000,
     "versionname": "5.1.0",
     "cache_update_frequency_usually": 420000,
@@ -87,10 +87,15 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [],
+    "sites": [
+        {
+            "url": "https://lms.itel.com.sg",
+            "name": "ITEL Learn"
+        }
+    ],
     "multisitesdisplay": "",
     "sitefindersettings": {},
-    "onlyallowlistedsites": false,
+    "onlyallowlistedsites": true,
     "forcedefaultlanguage": false,
     "privacypolicy": "https://moodle.net/moodle-app-privacy/",
     "notificoncolor": "#f98012",
